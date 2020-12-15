@@ -24,6 +24,7 @@
 <img src="https://user-images.githubusercontent.com/71136942/102185347-45dd3780-3ef4-11eb-82d2-bbf7e1337cca.png" width="700" height="400">
 
 <img src="https://user-images.githubusercontent.com/71136942/102185342-437add80-3ef4-11eb-88d8-961aa5b3c35b.png" width="500" height="260">
+
 - Limitation
 
 사용한 데이터셋이 증상 분류(Classification)를 하고 그 결과로 라벨링된 데이터셋이라 각 이미지에 거의 하나의 라벨로만 구성
