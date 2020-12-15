@@ -18,7 +18,7 @@
 - YOLOv5
 - 실제 Ground Truth와 각 Epoch별 학습결과
 
-<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="700" height="270">
+<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="700" height="260">
 
 - 한쪽 심장이 부풀어있는 증상 `심비대(Cardiomegaly)` 예측 결과
 
@@ -26,7 +26,7 @@
 
 - 다른 증상 예측 결과
     
-<img src="https://user-images.githubusercontent.com/71136942/102185347-45dd3780-3ef4-11eb-82d2-bbf7e1337cca.png" width="700" height="400">
+<img src="https://user-images.githubusercontent.com/71136942/102185347-45dd3780-3ef4-11eb-82d2-bbf7e1337cca.png" width="700" height="440">
 
 - Limitation
 
