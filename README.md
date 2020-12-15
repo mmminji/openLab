@@ -25,13 +25,13 @@
 
 <img src="https://user-images.githubusercontent.com/71136942/102185342-437add80-3ef4-11eb-88d8-961aa5b3c35b.png" width="500" height="260">
 - Limitation
+
 사용한 데이터셋이 증상 분류(Classification)를 하고 그 결과로 라벨링된 데이터셋이라 각 이미지에 거의 하나의 라벨로만 구성
 구축한 모델은 의심되는 모든 증상을 예측하여 mAP계산에서는 다 잘못 찾았다고 판단(보수적인 모델)
 
 
 #### 활동내용
-- 한국인공지능연구소 오픈랩
-https://www.ai-lab.kr/opens/5f844741dd7cbda5cf25d526
+- [한국인공지능연구소 오픈랩](https://www.ai-lab.kr/opens/5f844741dd7cbda5cf25d526)
 - 왼쪽눈랩 notion
 https://www.notion.so/6b79630624f449a3a0cd79a06eb406f1
 - 발표 YouTube
