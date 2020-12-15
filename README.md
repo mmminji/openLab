@@ -14,6 +14,6 @@
 #### 3. Project
 - Chest X-ray
 - YOLOv5
-<img src="https://user-images.githubusercontent.com/71136942/102185344-44ac0a80-3ef4-11eb-94d8-ae99b739dd04.png" width="700" height="500">
+<img src="https://user-images.githubusercontent.com/71136942/102185344-44ac0a80-3ef4-11eb-94d8-ae99b739dd04.png" width="700" height="400">
 
 https://www.notion.so/6b79630624f449a3a0cd79a06eb406f1
