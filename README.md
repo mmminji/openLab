@@ -16,7 +16,7 @@
 #### 3. Project
 - Chest X-ray
 - YOLOv5
-<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="350" height="200">
+<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="350" height="400">
 
 <img src="https://user-images.githubusercontent.com/71136942/102185345-4544a100-3ef4-11eb-8a76-2fcf136e4897.png" width="700" height="400">
     --> 심비대(Cardiomegaly라고 불리는 한쪽 심장이 부풀어있는 증상 예측
