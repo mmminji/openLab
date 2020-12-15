@@ -16,16 +16,17 @@
 #### 3. Project
 - Chest X-ray
 - YOLOv5
-<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="700" height="400">
+<img src="https://user-images.githubusercontent.com/71136942/102186623-437bdd00-3ef6-11eb-9dc9-6e305e1d485f.png" width="350" height="200">
 
 <img src="https://user-images.githubusercontent.com/71136942/102185345-4544a100-3ef4-11eb-8a76-2fcf136e4897.png" width="700" height="400">
-    심비대(Cardiomegaly라고 불리는 한쪽 심장이 부풀어있는 증상 예측
+    --> 심비대(Cardiomegaly라고 불리는 한쪽 심장이 부풀어있는 증상 예측
     
 <img src="https://user-images.githubusercontent.com/71136942/102185347-45dd3780-3ef4-11eb-82d2-bbf7e1337cca.png" width="700" height="400">
 
-<img src="https://user-images.githubusercontent.com/71136942/102185342-437add80-3ef4-11eb-88d8-961aa5b3c35b.png" width="500" height="260">
+<img src="https://user-images.githubusercontent.com/71136942/102185342-437add80-3ef4-11eb-88d8-961aa5b3c35b.png" width="350" height="200">
 
 - Limitation
+
 사용한 데이터셋이 증상 분류(Classification)를 하고 그 결과로 라벨링된 데이터셋이라 각 이미지에 거의 하나의 라벨로만 구성
 구축한 모델은 의심되는 모든 증상을 예측하여 mAP계산에서는 다 잘못 찾았다고 판단(보수적인 모델)
 
